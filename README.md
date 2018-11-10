@@ -6,9 +6,9 @@ This repository contains the code for the paper:
 
 [Soham Saha](https://soham0.github.io/), [Girish Varma](https://geevi.github.io/), [C.V.Jawahar](https://faculty.iiit.ac.in/~jawahar/)
 
-Please consider to cite our work if you find it useful in your research:
+Please consider citing our work, if you find it useful in your research:
 
-  `@article{sahaimproved,
+  ```@article{sahaimproved,
     title={Improved Visual Relocalization by Discovering Anchor Points},
     author={Saha, Soham and Varma, Girish and Jawahar, CV}
-    }`
+    }```
