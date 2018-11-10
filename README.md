@@ -50,5 +50,5 @@ The test performance needs to be computed from the saved files.
 
 Please contact us at :
 
-sohamsaha\[dot]cs\[at]gmail.com
-soham\[dot]saha\[at]research\[dot]iiit\[dot]ac\[dot]in
+- sohamsaha\[dot]cs\[at]gmail.com
+- soham\[dot]saha\[at]research\[dot]iiit\[dot]ac\[dot]in
