@@ -6,6 +6,8 @@ This repository contains the code for the paper:
 
 [Soham Saha](https://soham0.github.io/), [Girish Varma](https://geevi.github.io/), [C.V.Jawahar](https://faculty.iiit.ac.in/~jawahar/)
 
+This paper was accepted as a Conference Paper Spotlight Presentation at [BMVC 2018, Newcastle, UK.](http://bmvc2018.org/)
+
 ## Citation
 
 Please consider citing our work, if you find it useful in your research:
