@@ -37,8 +37,18 @@ for it.
 ### Usage
 
 A model is trained for every scene with different number of anchor points for every scene. The path to the scene and the parameters must be changed in the code.
+
+This code assumes that each scene has a separate folder and is saved in the current path. The paths need to be modified accordingly.
 ```
 python create_cambridge_scene.py
 python preprocess_cambridge_scene.py
 python localize_scene.py
 ```
+The test performance needs to be computed from the saved files.
+
+### Contact
+
+Please contact us at :
+
+sohamsaha\[dot]cs\[at]gmail.com
+soham\[dot]saha\[at]research\[dot]iiit\[dot]ac\[dot]in
