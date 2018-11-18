@@ -31,7 +31,7 @@ truth location, as it might not be visible due to the pose. Hence we propose a m
 loss function, which discovers the relevant anchor point, without needing the ground truth
 for it.
 
-## Installation and Dependencies
+## Dependencies
 
 - [Python 2.7](https://www.python.org/)
 - [Pytorch 0.3.1 and TorchVision](https://pytorch.org/)
